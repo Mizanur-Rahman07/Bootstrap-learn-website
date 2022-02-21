@@ -1,0 +1,16 @@
+.card_border_change{
+    border: 0;
+}
+.footer_border_change{
+    border: 0;
+    background-color: white;
+}
+
+.panda_slide .carousel-item{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+
+.box_image img{
+    width: 100px;
+}
